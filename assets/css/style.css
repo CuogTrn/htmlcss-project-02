@@ -398,5 +398,6 @@ a {
 }
 
 .courses-item .btn:hover {
+    cursor: pointer;
     background: var(--primary-color);
 }
